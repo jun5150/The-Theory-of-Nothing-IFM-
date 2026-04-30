@@ -34,9 +34,9 @@ Published on Medium
 
 
 ## Codes
-IFM_1D.py                1D Gillespie validation (stochastic vs ODE)
-IFM_relogio_optico.py    2D simulation for β (optical clock)
-IFM_2d_hubble.py         2D simulation with expansion pressure (Hubble tension)
+* IFM_1D.py                1D Gillespie validation (stochastic vs ODE)
+* IFM_relogio_optico.py    2D simulation for β (optical clock)
+* IFM_2d_hubble.py         2D simulation with expansion pressure (Hubble tension)
 
 
 ## Requirements
