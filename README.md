@@ -1,5 +1,7 @@
 # The Theory of Nothing – Informational Fluid Mechanics (IFM)
 
+## License
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## About
 Ontology of Fluidity/"Theory of Nothing" - Informational Fluid Mechanics (IFM) – Thermodynamics of Distinction is an ontology where spacetime emerges from informational fluidity.
