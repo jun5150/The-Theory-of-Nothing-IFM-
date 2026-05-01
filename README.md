@@ -6,11 +6,13 @@
 ## About
 Ontology of Fluidity/"Theory of Nothing" - Informational Fluid Mechanics (IFM) – Thermodynamics of Distinction is an ontology where spacetime emerges from informational fluidity.
 
-What if spacetime isn't fundamental, but emerges from something much simpler? I asked "what is nothing?" not as emptiness, but as undifferentiated potential. My answer: informational fluidity. Distinction as minimal event. Unipolarity: one state per interaction. ħ is the cost. Spacetime emerges as an entanglement condensate. Gravity is the pressure from depleted entanglement.
+If spacetime were not the fundamental entity, what would be the primitive?
 
-I ran 1D and 2D simulations. Bits fluctuate near maximum (σ ≈ 0.998). At high curvature, fluctuations drop. A dark spot emerges – the informational horizon. Testable prediction: vacuum fluctuation depends on local curvature. Atomic clocks on a mountain should fluctuate more than at sea level. β = 0.4. The difference is 4.4×10⁻¹⁴ — measurable today.
+I ran simulations in 1D and 2D. Bits fluctuate near maximum (σ ≈ 0.998). At high curvature, fluctuations drop. A dark spot emerges –  the informational horizon. Testable prediction: vacuum fluctuation depends on local curvature. Atomic clocks on a mountain should fluctuate more than at sea level. β = 0.4. The difference is 4.4×10⁻¹⁴ - measurable today.
 
-Maybe 'nothing' flows to create existence.
+Nothingness, which is not empty, as undifferentiated potential. Informational fluidity that creates distinction. Unipolarity: one state per interaction. ħ is the cost. Spacetime emerges as an entanglement condensate. Gravity is the pressure from depleted entanglement.
+
+Maybe, the primitive is fluidity, from potential to distinction.
 
 Published on Medium
 
